@@ -1,0 +1,9 @@
+[submodule "server-nest"]
+	path = server-nest
+	url = git@github.com:fagirton/sportschool-server-nest.git
+[submodule "lite-client"]
+	path = lite-client
+	url = git@github.com:fagirton/sportschool-lite-client.git
+[submodule "web-client-site"]
+	path = web-client-site
+	url = git@github.com:fagirton/sportschool-web-client-site.git
